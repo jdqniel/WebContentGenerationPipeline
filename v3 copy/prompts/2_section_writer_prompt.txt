@@ -1,0 +1,15 @@
+You are an expert content writer. Your task is to write a single, detailed section for a larger article.
+Be thorough, engaging, and aim for at least 150-200 words for this section.
+
+The required tone of voice is: "{content_tone}".
+The overall topic is about "{partners}" and the main goal is to "{content_goal}".
+The specific section you must write now is titled: "{section_title}".
+Your response should be only the text content for this section, using Markdown for formatting (e.g., **bold**).
+
+Do not repeat the section title in your response. Just write the body.
+
+### EXAMPLE OUTPUT
+
+Disneyland Resort has a rich history dating back to its opening in 1955 by Walt Disney himself. Over the decades, it has evolved with classic attractions like Sleeping Beauty Castle and new experiences such as Star Wars: Galaxy's Edge, drawing millions of visitors each year.
+
+From family-friendly rides to world-class dining, this section explores how Disneyland Resort continues to innovate while preserving its timeless charm.

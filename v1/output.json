@@ -1,0 +1,104 @@
+{
+  "requestConfig": {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  "generatedContent": {
+    "title": "Discover Perfect Escapes with Our New Anaheim Partners",
+    "body_blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Welcome to Our Partner Spotlight"
+      },
+      {
+        "type": "paragraph",
+        "text": "We're thrilled to introduce you to our newest partners, each offering unique experiences perfect for couples looking to create lasting memories. Whether you're planning a romantic getaway or a spontaneous escape, our partners in Anaheim provide the ideal settings for your next adventure."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Experience Magic at House of Blues Anaheim"
+      },
+      {
+        "type": "paragraph",
+        "text": "Feel the rhythm of love at the **House of Blues Anaheim**, where music and romance blend seamlessly. Enjoy an intimate dinner while soaking in live performances that cater to all musical tastes. It's the perfect place to dance the night away with your special someone."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Adventure Awaits at Great Wolf Lodge"
+      },
+      {
+        "type": "paragraph",
+        "text": "For couples seeking a mix of thrill and relaxation, **Great Wolf Lodge** offers a unique escape. Dive into the excitement of the indoor water park or unwind in one of the luxurious suites. It's an ideal destination for rekindling romance amidst fun-filled adventures."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Elevate Your Experience at Anaheim Convention Center"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you're in town for an event or simply exploring, the **Anaheim Convention Center** offers more than just exhibitions. Its proximity to various attractions makes it a strategic starting point for an exciting couple's getaway. Enjoy nearby dining, shopping, and entertainment options."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Indulge in Culinary Delights at Morton's The Steakhouse"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cap off your day with a luxurious dining experience at **Morton's The Steakhouse**. Known for its impeccable service and mouth-watering dishes, it's the perfect venue for a romantic dinner. Savor premium steaks and fine wines while you create unforgettable moments together."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Book Your Anaheim Adventure Today"
+      },
+      {
+        "type": "paragraph",
+        "text": "Don't wait to experience the magic our partners have to offer. Whether you're looking for music, adventure, events, or fine dining, our partners in Anaheim are ready to welcome you with open arms. **Book now** and let your romantic escape begin!"
+      }
+    ],
+    "body_markdown": "## Welcome to Our Partner Spotlight\n\nWe're thrilled to introduce you to our newest partners, each offering unique experiences perfect for couples looking to create lasting memories. Whether you're planning a romantic getaway or a spontaneous escape, our partners in Anaheim provide the ideal settings for your next adventure.\n\n## Experience Magic at House of Blues Anaheim\n\nFeel the rhythm of love at the **House of Blues Anaheim**, where music and romance blend seamlessly. Enjoy an intimate dinner while soaking in live performances that cater to all musical tastes. It's the perfect place to dance the night away with your special someone.\n\n## Adventure Awaits at Great Wolf Lodge\n\nFor couples seeking a mix of thrill and relaxation, **Great Wolf Lodge** offers a unique escape. Dive into the excitement of the indoor water park or unwind in one of the luxurious suites. It's an ideal destination for rekindling romance amidst fun-filled adventures.\n\n## Elevate Your Experience at Anaheim Convention Center\n\nIf you're in town for an event or simply exploring, the **Anaheim Convention Center** offers more than just exhibitions. Its proximity to various attractions makes it a strategic starting point for an exciting couple's getaway. Enjoy nearby dining, shopping, and entertainment options.\n\n## Indulge in Culinary Delights at Morton's The Steakhouse\n\nCap off your day with a luxurious dining experience at **Morton's The Steakhouse**. Known for its impeccable service and mouth-watering dishes, it's the perfect venue for a romantic dinner. Savor premium steaks and fine wines while you create unforgettable moments together.\n\n## Book Your Anaheim Adventure Today\n\nDon't wait to experience the magic our partners have to offer. Whether you're looking for music, adventure, events, or fine dining, our partners in Anaheim are ready to welcome you with open arms. **Book now** and let your romantic escape begin!"
+  },
+  "seoAssets": {
+    "meta_title": "Discover Romantic Escapes with New Anaheim Partners",
+    "meta_description": "Explore unique experiences with our Anaheim partners. From music at House of Blues to thrills at Great Wolf Lodge, discover perfect getaways for couples. Book your adventure today!",
+    "suggested_keywords": [
+      "Anaheim romantic getaways",
+      "couples adventure Anaheim",
+      "Anaheim House of Blues",
+      "Great Wolf Lodge Anaheim",
+      "Morton's The Steakhouse Anaheim"
+    ]
+  }
+}

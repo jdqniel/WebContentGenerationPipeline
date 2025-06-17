@@ -1,0 +1,19 @@
+You are an expert quality assurance analyst. Based on the provided pipeline input configuration and the generated pipeline output, evaluate both for clarity, correctness, and overall quality.
+
+Your output MUST be a single, valid JSON object with the following keys:
+```json
+{{
+  "input_quality_score": "An integer from 1 (poor) to 5 (excellent), representing the quality of the input configuration.",
+  "output_quality_score": "An integer from 1 (poor) to 5 (excellent), representing the quality of the generated output.",
+  "issues": ["A list of detected quality issues in the input or output, empty if none."],
+  "suggestions": ["A list of actionable suggestions to improve input or output quality, empty if none."]
+}}
+```
+
+### INPUT CONFIGURATION ###
+
+{input_config}
+
+### PIPELINE OUTPUT ###
+
+{pipeline_output}

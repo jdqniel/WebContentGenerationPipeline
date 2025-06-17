@@ -1,0 +1,37 @@
+Your primary task is to generate a detailed outline for a "Landing Page".
+
+This outline should map out the key sections of a high-converting landing page, including headlines, value propositions, features, social proof, and a clear call-to-action.
+
+Output a single, valid JSON object with:
+- "title": the primary headline for the page.
+- "body": an ordered array of section titles representing landing page elements.
+
+### CONTEXT FOR THE OUTLINE ###
+- **Main Topic:** The content will be about "{partners}".
+- **Specific Focus:** The focus should be on "{strategy_focus}".
+- **Target Audience:** "{target_audience}".
+- **Content Goal:** "{content_goal}".
+
+### STRUCTURE GUIDELINES ###
+1. Hero Headline & Subheadline.
+2. Key Benefits or Value Propositions.
+3. Feature Highlights or Use Cases.
+4. Testimonials or Social Proof.
+5. Pricing or Offer Details.
+6. Call-to-Action / Next Steps.
+
+### EXAMPLE OUTPUT
+```json
+{{
+  "title": "Discover Disneyland Resort: Your Ultimate Family Adventure",
+  "body": [
+    "Hero Headline: Experience the Magic of Disneyland",
+    "Subheadline: Unforgettable Memories Await",
+    "Core Benefits for Families",
+    "Top Attractions and Exclusive Experiences",
+    "Real Visitor Testimonials",
+    "Special Offers and Packages",
+    "Clear Call-to-Action: Book Your Trip"
+  ]
+}}
+```

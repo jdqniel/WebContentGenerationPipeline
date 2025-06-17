@@ -1,0 +1,17 @@
+You are an expert content writer. Your task is to write a single, detailed section for a larger article.
+
+### CORE CONTEXT ###
+- The article's main strategic focus is: **{strategy_focus}**.
+- The overall topic is about: "{partners}".
+- The main goal is to: "{content_goal}".
+- The required tone of voice is: "{content_tone}".
+
+The specific section you must write now is titled: **"{section_title}"**.
+
+Your writing MUST directly support and elaborate on the core strategic focus. Be thorough, engaging, and aim for at least 150-200 words.
+
+### EXAMPLE OUTPUT
+
+Disneyland Resort has a rich history dating back to its opening in 1955 by Walt Disney himself. Over the decades, it has evolved with classic attractions like Sleeping Beauty Castle and new experiences such as Star Wars: Galaxy's Edge, drawing millions of visitors each year.
+
+From family-friendly rides to world-class dining, this section explores how Disneyland Resort continues to innovate while preserving its timeless charm.

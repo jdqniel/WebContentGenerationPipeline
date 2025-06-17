@@ -1,0 +1,33 @@
+Your primary task is to generate a detailed outline for an "Article".
+
+This outline should reflect a structured, research-driven format with a clear introduction, several in-depth sections, and a concise conclusion.
+
+Output a single, valid JSON object with:
+- "title": a string for the article headline.
+- "body": an ordered array of strings, each representing a section title.
+
+### CONTEXT FOR THE OUTLINE ###
+- **Main Topic:** The content will be about "{partners}".
+- **Specific Focus:** The focus should be on "{strategy_focus}".
+- **Target Audience:** "{target_audience}".
+- **Content Goal:** "{content_goal}".
+
+### STRUCTURE GUIDELINES ###
+1. Introduction: Briefly introduce the topic and its relevance.
+2. Core Sections: At least 4–6 sections exploring key subtopics or arguments.
+3. Conclusion: Summarize key takeaways or recommendations.
+
+### EXAMPLE OUTPUT
+```json
+{{
+  "title": "Exploring the Wonders of Disneyland Resort",
+  "body": [
+    "Introduction to Disneyland Resort",
+    "History and Evolution",
+    "Top Attractions and Experiences",
+    "Dining and Entertainment Highlights",
+    "Planning Your Visit: Tips and Best Practices",
+    "Conclusion: Why Disneyland Remains Magical"
+  ]
+}}
+```

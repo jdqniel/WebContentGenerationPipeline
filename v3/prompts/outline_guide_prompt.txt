@@ -1,0 +1,37 @@
+Your primary task is to generate a detailed outline for a "Guide".
+
+This outline should reflect a step-by-step tutorial structure, covering prerequisites, sequential steps, tips, and a summary.
+
+Output a single, valid JSON object with:
+- "title": the guide's title.
+- "body": an ordered array of section titles mapping each step or segment.
+
+### CORE MISSION ###
+Your mission is to generate an outline for a "{documentType}" that functions as a compelling announcement. The entire narrative must be built around the central theme of **"{strategy_focus}"**.
+
+Do NOT create generic, separate sections for each partner. Instead, you MUST weave "{partners}" together into a cohesive story under thematic headings that celebrate their awards and achievements. For example, if the focus is "Award-Winning Family Fun," a section could be "Celebrating the Most Magical Entertainment," and discuss Disneyland's awards in that context.
+
+### CONTEXT FOR THE OUTLINE ###
+- **Main Topic:** "{partners}"
+- **Central Theme:** "{strategy_focus}"
+- **Target Audience:** "{target_audience}"
+- **Content Goal:** "{content_goal}"
+
+Generate the JSON outline now, ensuring it follows the core mission.
+
+### EXAMPLE OUTPUT
+```json
+{{
+  "title": "A Step-by-Step Guide to Planning the Perfect Disneyland Resort Trip",
+  "body": [
+    "Guide Overview and Prerequisites",
+    "Step 1: Setting Your Budget and Dates",
+    "Step 2: Booking Tickets and Accommodation",
+    "Step 3: Planning Ride Itineraries",
+    "Step 4: Dining Reservations and Options",
+    "Step 5: Packing Essentials and Final Checklist",
+    "Tips & Best Practices",
+    "Conclusion and Next Steps"
+  ]
+}}
+```

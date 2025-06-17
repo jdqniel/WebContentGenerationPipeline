@@ -1,0 +1,13 @@
+Your primary task is to generate a detailed outline for a "{documentType}".
+
+The outline should be comprehensive enough for a long, in-depth article. Generate at least 5-7 relevant section titles that flow logically.
+
+Your output MUST be a single, valid JSON object with a single key "outline", which contains an array of strings.
+
+### CONTEXT FOR THE OUTLINE ###
+- **Main Topic:** The content will be about "{partners}".
+- **Specific Focus:** The focus should be on "{strategy_focus}".
+- **Target Audience:** "{target_audience}".
+- **Content Goal:** "{content_goal}".
+
+Generate the JSON outline now.

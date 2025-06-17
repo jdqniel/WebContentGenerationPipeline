@@ -1,0 +1,27 @@
+{
+    "targetAudience": [
+        "Luxury Travelers",
+        "Adventure Seekers",
+        "Local Foodies",
+        "Couples",
+        "Families with Young Children",
+        "Business Travelers",
+        "Students"
+    ],
+    "contentGoals": [
+        "Inform and Educate",
+        "Drive Engagement",
+        "Generate Leads",
+        "Promote New Offer",
+        "Increase Bookings",
+        "Build Brand Awareness"
+    ],
+    "contentTones": [
+        "Friendly and Casual",
+        "Witty and Humorous",
+        "Exciting and Energetic",
+        "Professional & Informative",
+        "Urgent and Persuasive",
+        "Empathetic and Supportive"
+    ]
+}

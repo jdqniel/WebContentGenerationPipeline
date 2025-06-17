@@ -1,0 +1,16 @@
+Generate a JSON object with the following keys: "meta_title", "meta_description", "suggested_keywords".
+
+
+IMPORTANT: Your output must be a single, raw JSON object. Do not include any text before or after the JSON.
+
+The JSON object must have the following exact keys:
+- "seoTitle": A compelling title for SEO purposes, under 60 characters.
+- "metaDescription": A meta description for the page, under 160 characters.
+- "keywords": An array of 5-7 relevant keywords.
+
+EXAMPLE OUTPUT:
+{
+  "seoTitle": "Example SEO Title For The Page",
+  "metaDescription": "This is an example meta description that is optimized for search engines.",
+  "keywords": ["keyword1", "keyword2", "keyword3"]
+}

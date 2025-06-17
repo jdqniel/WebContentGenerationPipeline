@@ -1,0 +1,2490 @@
+[
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Hallowen",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Sporting Events"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Upcoming Concerts"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Hidden Gems"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Convention Highlights"
+    },
+    "partners": [
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Upcoming Concerts"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "High-Performing Partners"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "High-Performing Partners"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Promote Local Attractions"
+    },
+    "partners": [
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Promote Local Attractions"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "New Openings"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "High-Performing Partners"
+    },
+    "partners": [
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Convention Highlights"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Underrepresented Partners"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "First-Time Visitor Guide"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "First-Time Visitor Guide"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "New Openings"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "New Openings"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Navigating the City"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Convention Highlights"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Navigating the City"
+    },
+    "partners": [
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Navigating the City"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Underrepresented Partners"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Underrepresented Partners"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Underrepresented Partners"
+    },
+    "partners": [
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Sporting Events"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Navigating the City"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Hidden Gems"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Sporting Events"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Underrepresented Partners"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Hidden Gems"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Seasonal Highlights"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Sporting Events"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Sporting Events"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "New Partner Introduction"
+    },
+    "partners": [
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Promote Local Attractions"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Seasonal Highlights"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "New Openings"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "First-Time Visitor Guide"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Upcoming Concerts"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Navigating the City"
+    },
+    "partners": [
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Promote Local Attractions"
+    },
+    "partners": [
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Convention Highlights"
+    },
+    "partners": [
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Seasonal Highlights"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Professional & Informative"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Press Releases"
+    },
+    "partners": [
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Upcoming Concerts"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
+        "name": "Anaheim Marriott"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Landing Page",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "High-Performing Partners"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "New Openings"
+    },
+    "partners": [
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Empathetic and Supportive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "News & Announcements",
+      "specificFocus": "Important Updates"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Local Foodies",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Hidden Gems"
+    },
+    "partners": [
+      {
+        "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
+        "name": "Disneyland Resort"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Families with Young Children",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Urgent and Persuasive"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Navigating the City"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Luxury Travelers",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Partner Milestones"
+    },
+    "partners": [
+      {
+        "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
+        "name": "Anaheim Convention Center"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
+        "name": "Morton's The Steakhouse"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Adventure Seekers",
+      "contentGoal": "Inform and Educate",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Guide",
+    "strategy": {
+      "category": "Events & Experiences",
+      "specificFocus": "Community Festivals"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      },
+      {
+        "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
+        "name": "Anaheim Packing District"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Generate Leads",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Hidden Gems"
+    },
+    "partners": [
+      {
+        "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
+        "name": "The Cheesecake Factory"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Build Brand Awareness",
+      "contentTone": "Friendly and Casual"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Partner Spotlight",
+      "specificFocus": "Underrepresented Partners"
+    },
+    "partners": [
+      {
+        "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
+        "name": "Honda Center"
+      },
+      {
+        "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
+        "name": "Knott's Berry Farm"
+      },
+      {
+        "id": "b3091767-6065-4dca-a097-71ff1f99807f",
+        "name": "Angel Stadium of Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Couples",
+      "contentGoal": "Promote New Offer",
+      "contentTone": "Witty and Humorous"
+    }
+  },
+  {
+    "documentType": "Blog Post",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
+        "name": "City National Grove of Anaheim"
+      },
+      {
+        "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
+        "name": "Hilton Anaheim"
+      },
+      {
+        "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
+        "name": "House of Blues Anaheim"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Students",
+      "contentGoal": "Increase Bookings",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Destination & Tourism",
+      "specificFocus": "Showcase Anaheim"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Exciting and Energetic"
+    }
+  },
+  {
+    "documentType": "Article",
+    "strategy": {
+      "category": "Educational & Guides",
+      "specificFocus": "Hidden Gems"
+    },
+    "partners": [
+      {
+        "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
+        "name": "The Rinks - Anaheim ICE"
+      },
+      {
+        "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
+        "name": "Great Wolf Lodge"
+      }
+    ],
+    "generationConfig": {
+      "creationMethod": "AI-Generated",
+      "targetAudience": "Business Travelers",
+      "contentGoal": "Drive Engagement",
+      "contentTone": "Exciting and Energetic"
+    }
+  }
+]

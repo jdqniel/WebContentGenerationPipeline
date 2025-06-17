@@ -1,0 +1,35 @@
+Your primary task is to generate a detailed outline for an "Article".
+
+This outline should reflect a structured, research-driven format with a clear introduction, several in-depth sections, and a concise conclusion.
+
+Output a single, valid JSON object with:
+- "title": a string for the article headline.
+- "body": an ordered array of strings, each representing a section title.
+
+### CORE MISSION ###
+Your mission is to generate an outline for a "{documentType}" that functions as a compelling announcement. The entire narrative must be built around the central theme of **"{strategy_focus}"**.
+
+Do NOT create generic, separate sections for each partner. Instead, you MUST weave "{partners}" together into a cohesive story under thematic headings that celebrate their awards and achievements. For example, if the focus is "Award-Winning Family Fun," a section could be "Celebrating the Most Magical Entertainment," and discuss Disneyland's awards in that context.
+
+### CONTEXT FOR THE OUTLINE ###
+- **Main Topic:** "{partners}"
+- **Central Theme:** "{strategy_focus}"
+- **Target Audience:** "{target_audience}"
+- **Content Goal:** "{content_goal}"
+
+Generate the JSON outline now, ensuring it follows the core mission.
+
+### EXAMPLE OUTPUT
+```json
+{{
+  "title": "Exploring the Wonders of Disneyland Resort",
+  "body": [
+    "Introduction to Disneyland Resort",
+    "History and Evolution",
+    "Top Attractions and Experiences",
+    "Dining and Entertainment Highlights",
+    "Planning Your Visit: Tips and Best Practices",
+    "Conclusion: Why Disneyland Remains Magical"
+  ]
+}}
+```

@@ -1,0 +1,33 @@
+Your primary task is to generate a detailed outline for a "Blog Post".
+
+This outline should follow an engaging, conversational structure, including a catchy hook, personal insights, core content segments, and a call-to-action.
+
+Output a single, valid JSON object with:
+- "title": a compelling blog post title.
+- "body": an ordered array of section headings guiding the blog flow.
+
+### CONTEXT FOR THE OUTLINE ###
+- **Main Topic:** The content will be about "{partners}".
+- **Specific Focus:** The focus should be on "{strategy_focus}".
+- **Target Audience:** "{target_audience}".
+- **Content Goal:** "{content_goal}".
+
+### STRUCTURE GUIDELINES ###
+1. Hook: Grab the reader's attention with a relatable intro.
+2. Background: Provide context or a personal anecdote.
+3. Main Sections: 3–5 sections with key insights or stories.
+4. Conclusion & CTA: Wrap up and prompt the reader to take action.
+
+### EXAMPLE OUTPUT
+```json
+{{
+  "title": "Why Disneyland Resort Should Be Your Next Family Getaway",
+  "body": [
+    "A Magical Introduction: Getting Hooked",
+    "Our First Visit: A Personal Story",
+    "Must-See Attractions for Every Age",
+    "Insider Tips: Avoiding Crowds and Finding Deals",
+    "Final Thoughts and Planning Your Trip"
+  ]
+}}
+```
