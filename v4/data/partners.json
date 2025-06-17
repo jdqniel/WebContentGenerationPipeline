@@ -1,58 +1,48 @@
 [
-    {
+  {
       "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
-      "name": "Disneyland Resort"
-    },
-    {
+      "name": "Disneyland Resort",
+      "category": "Theme Parks",
+      "description": "The iconic theme park featuring Disneyland Park and Disney California Adventure Park, offering attractions, entertainment, and dining experiences.",
+      "website": "https://disneyland.disney.go.com/",
+      "location": {
+          "latitude": 33.8121,
+          "longitude": -117.9190
+      },
+      "contact": {
+          "phone": "+1 714-781-4636",
+          "email": "example@disneyland.com"
+      },
+      "image": "https://example.com/images/disneyland.jpg",
+      "socialMedia": {
+          "facebook": "https://www.facebook.com/Disneyland",
+          "twitter": "https://twitter.com/Disneyland",
+          "instagram": "https://www.instagram.com/disneyland/"
+      },
+      "tags": ["family-friendly", "entertainment", "attractions"]
+  },
+  {
       "id": "b3091767-6065-4dca-a097-71ff1f99807f",
-      "name": "Angel Stadium of Anaheim"
-    },
-    {
-      "id": "e1ef38b4-a66e-470a-acf0-361c8e3b86d2",
-      "name": "The Rinks - Anaheim ICE"
-    },
-    {
-      "id": "fb066447-7e29-47ae-9dde-901cf33ca183",
-      "name": "Hilton Anaheim"
-    },
-    {
-      "id": "00b9994b-602d-47c2-af4c-240f9cf490f1",
-      "name": "Anaheim Marriott"
-    },
-    {
+      "name": "Angel Stadium of Anaheim",
+      "category": "Sports Venues",
+      "description": "Home of the Los Angeles Angels, hosting Major League Baseball games and events."
+  },
+  {
       "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
-      "name": "Anaheim Packing District"
-    },
-    {
+      "name": "Anaheim Packing District",
+      "category": "Dining & Shopping",
+      "description": "A vibrant food hall and marketplace featuring local vendors and eateries."
+  },
+  {
       "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
-      "name": "Honda Center"
-    },
-    {
+      "name": "Honda Center",
+      "category": "Entertainment Venues",
+      "description": "Home to the Anaheim Ducks and various concerts and events."
+  },
+  {
       "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
-      "name": "Anaheim Convention Center"
-    },
-    {
-      "id": "68833134-b43e-41b3-80f6-a2f128c7a758",
-      "name": "Great Wolf Lodge"
-    },
-    {
-      "id": "bcf6646a-292d-42bc-8586-b9f13be81299",
-      "name": "Morton's The Steakhouse"
-    },
-    {
-      "id": "da4cab8b-e8b0-40e1-b4b4-24da3fd1df54",
-      "name": "House of Blues Anaheim"
-    },
-    {
-      "id": "2d2f8c2a-571d-46e7-b95d-1528785937ca",
-      "name": "City National Grove of Anaheim"
-    },
-    {
-      "id": "1b59bfb0-d099-4632-9e12-86f3e0cddbbe",
-      "name": "The Cheesecake Factory"
-    },
-    {
-      "id": "6e09e6ac-59a2-4532-8037-a009610b0a96",
-      "name": "Knott's Berry Farm"
-    }
-  ]
+      "name": "Anaheim Convention Center",
+      "category": "Convention & Meeting Spaces",
+      "description": "The largest convention center on the West Coast, hosting numerous events and conventions."
+  }
+]

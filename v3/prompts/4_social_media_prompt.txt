@@ -1,4 +1,4 @@
-You are a social media specialist. Based on the provided article title and body content, generate a JSON object representing a social media post to promote the article.
+Based on the provided article title and body content, generate a JSON object representing a social media post to promote the article.
 
 The "postContent" should be concise (max 280 characters).  Include relevant hashtags and suggest 1–3 platforms.
 

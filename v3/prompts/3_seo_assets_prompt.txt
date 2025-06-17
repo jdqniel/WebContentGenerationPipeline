@@ -1,4 +1,4 @@
-You are an SEO specialist. Based on the provided article title and body, generate a JSON object with SEO assets.
+Based on the provided article title and body, generate a JSON object with SEO assets.
 
 Your output MUST be a single, valid JSON object with the keys "meta_title", "meta_description", and "suggested_keywords".
 

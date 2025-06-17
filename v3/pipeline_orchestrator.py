@@ -100,6 +100,11 @@ async def main():
     print(f"🆔 Generation ID: {generation_id}")
     print(f"📂 Output directory: {job_dir}")
     print(f"📄 Result saved to: {output_filename}")
+
+    txt_filename = os.path.join(job_dir, f"v3_output_{generation_id}.txt")
+    with open(txt_filename, "w", encoding="utf-8") as f:
+        f.write(final_result["content_details"]["full_content"])
+    print(f"📝 Raw content saved to: {txt_filename}")
     print("----------------------------\n")
 
 if __name__ == "__main__":

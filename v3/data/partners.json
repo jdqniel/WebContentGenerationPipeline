@@ -1,22 +1,32 @@
 [
     {
         "id": "2c41ca4b-3755-44fb-bb4d-2025f829a16c",
-        "name": "Disneyland Resort"
+        "name": "Disneyland Resort",
+        "category": "Theme Parks",
+        "description": "The iconic theme park featuring Disneyland Park and Disney California Adventure Park, offering attractions, entertainment, and dining experiences."
     },
     {
         "id": "b3091767-6065-4dca-a097-71ff1f99807f",
-        "name": "Angel Stadium of Anaheim"
+        "name": "Angel Stadium of Anaheim",
+        "category": "Sports Venues",
+        "description": "Home of the Los Angeles Angels, hosting Major League Baseball games and events."
     },
     {
         "id": "e94bd92c-2a4e-4776-b941-b7d1a1f7c324",
-        "name": "Anaheim Packing District"
+        "name": "Anaheim Packing District",
+        "category": "Dining & Shopping",
+        "description": "A vibrant food hall and marketplace featuring local vendors and eateries."
     },
     {
         "id": "633ab892-8d0c-4fcb-b525-8c5c6958a998",
-        "name": "Honda Center"
+        "name": "Honda Center",
+        "category": "Entertainment Venues",
+        "description": "Home to the Anaheim Ducks and various concerts and events."
     },
     {
         "id": "4ce9f6e0-a773-48a4-ae22-40fb0028b139",
-        "name": "Anaheim Convention Center"
+        "name": "Anaheim Convention Center",
+        "category": "Convention & Meeting Spaces",
+        "description": "The largest convention center on the West Coast, hosting numerous events and conventions."
     }
 ]

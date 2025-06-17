@@ -1,4 +1,4 @@
-You are an expert content writer. Your task is to write a single, detailed section for a larger article.
+Your task is to write a single, detailed section for a larger article.
 
 ### CORE CONTEXT ###
 - The article's main strategic focus is: **{strategy_focus}**.
