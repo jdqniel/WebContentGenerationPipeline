@@ -53,8 +53,12 @@ class WebContentPipeline:
 
         print("\n--- Starting Pipeline Execution ---")
         for stage in self.stages:
-            print(f"Running Stage: {stage.stage_name}...")
+            print(f"\n--- Stage: {stage.stage_name} ---")
+            print("  Input state:")
+            print(json.dumps(state, indent=2))
             state = await stage.run(state)
+            print("  Output state:")
+            print(json.dumps(state, indent=2))
         print("--- Finished Pipeline Execution ---\n")
 
         return state
@@ -68,6 +72,22 @@ async def main():
     """
     print("🚀 Starting V3 Content Generation Pipeline...")
     start_time = time.monotonic()
+
+    import tempfile, shutil
+    orig_stdout, orig_stderr = sys.stdout, sys.stderr
+    temp_log_fd, temp_log_path = tempfile.mkstemp(prefix='pipeline_', suffix='.log')
+    log_file = os.fdopen(temp_log_fd, 'w', encoding='utf-8')
+    class Tee:
+        def __init__(self, *streams):
+            self.streams = streams
+        def write(self, data):
+            for s in self.streams:
+                s.write(data)
+        def flush(self):
+            for s in self.streams:
+                s.flush()
+    sys.stdout = Tee(orig_stdout, log_file)
+    sys.stderr = Tee(orig_stderr, log_file)
 
     # 1. Initialize the configuration generator
     data_path = os.path.join(os.path.dirname(__file__), 'data')
@@ -105,6 +125,11 @@ async def main():
     with open(txt_filename, "w", encoding="utf-8") as f:
         f.write(final_result["content_details"]["full_content"])
     print(f"📝 Raw content saved to: {txt_filename}")
+    log_file.flush()
+    log_file.close()
+    shutil.move(temp_log_path, os.path.join(job_dir, 'pipeline.log'))
+    sys.stdout, sys.stderr = orig_stdout, orig_stderr
+    print(f"🗒️ Log saved to: {os.path.join(job_dir, 'pipeline.log')}")
     print("----------------------------\n")
 
 if __name__ == "__main__":
